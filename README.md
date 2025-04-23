@@ -42,5 +42,4 @@ python src/curvometria.py
 |----------------|-------------|--------|---------------------|
 | Glueball G⁰    | Glueball    | 7.5    | 3.377e-26          |
 
-![Relação Massa vs Curvatura Angular](images/massa_vs_theta.png)
 
