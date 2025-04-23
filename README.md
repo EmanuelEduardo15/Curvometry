@@ -42,4 +42,9 @@ python src/curvometria.py
 |----------------|-------------|--------|---------------------|
 | Glueball G⁰    | Glueball    | 7.5    | 3.377e-26          |
 
-
+### 2. `requirements.txt`
+```
+numpy==1.26.0
+pandas==2.1.1
+matplotlib==3.7.2
+```
