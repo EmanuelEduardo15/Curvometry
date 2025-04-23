@@ -4,6 +4,10 @@ Um modelo teórico para estimar massas de partículas subatômicas usando geomet
 
 ## 📚 Fundamentação Teórica
 Relaciona a massa de partículas com sua "curvatura espaço-temporal efetiva" através da equação:
+```
+θ = (m · c · R) / ħ
+```
+
 onde:
 - `θ`: Curvatura angular adimensional
 - `m`: Massa da partícula (kg)
