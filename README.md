@@ -42,7 +42,7 @@ python src/curvometria.py
 |----------------|-------------|--------|---------------------|
 | Glueball G⁰    | Glueball    | 7.5    | 3.377e-26          |
 
-### 2. `requirements.txt`
+### 2. `requirements`
 ```
 numpy==1.26.0
 pandas==2.1.1
